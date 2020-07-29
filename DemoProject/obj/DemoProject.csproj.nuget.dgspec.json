@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bowal\\Source\\Repos\\DemoProject\\DemoProject\\DemoProject.csproj": {}
+    "C:\\Users\\bowal\\Documents\\GitHub\\LearnWithPrideDemo\\DemoProject\\DemoProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bowal\\Source\\Repos\\DemoProject\\DemoProject\\DemoProject.csproj": {
+    "C:\\Users\\bowal\\Documents\\GitHub\\LearnWithPrideDemo\\DemoProject\\DemoProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bowal\\Source\\Repos\\DemoProject\\DemoProject\\DemoProject.csproj",
+        "projectUniqueName": "C:\\Users\\bowal\\Documents\\GitHub\\LearnWithPrideDemo\\DemoProject\\DemoProject.csproj",
         "projectName": "DemoProject",
-        "projectPath": "C:\\Users\\bowal\\Source\\Repos\\DemoProject\\DemoProject\\DemoProject.csproj",
+        "projectPath": "C:\\Users\\bowal\\Documents\\GitHub\\LearnWithPrideDemo\\DemoProject\\DemoProject.csproj",
         "packagesPath": "C:\\Users\\bowal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bowal\\Source\\Repos\\DemoProject\\DemoProject\\obj\\",
+        "outputPath": "C:\\Users\\bowal\\Documents\\GitHub\\LearnWithPrideDemo\\DemoProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bowal\\AppData\\Roaming\\NuGet\\NuGet.Config",
